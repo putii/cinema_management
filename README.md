@@ -83,8 +83,8 @@ Please note that Maven requires Java to be installed, so make sure you have a co
 ### Clone the project 
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/putii/cinema_management.git
+cd cinema_management
 ```
 
 ### Building and Running the Application
